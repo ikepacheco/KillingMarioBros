@@ -1,0 +1,17 @@
+{
+"companyName": "DemonFas Inc",
+"productName": "KillingMarioBros",
+"productVersion": "1.8",
+"dataUrl": "CompiledWebGL.data.unityweb",
+"wasmCodeUrl": "CompiledWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "CompiledWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "CompiledWebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
